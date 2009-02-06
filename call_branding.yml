@@ -1,0 +1,8 @@
+#Valid options are:
+#  - CALLERID
+#  - SIPADDHEADER
+#  - VARIABLES
+:branding_type: CALLERID
+
+#The from domain to be used with SIPADDHEADER
+:from_domain: adhearsion.com
